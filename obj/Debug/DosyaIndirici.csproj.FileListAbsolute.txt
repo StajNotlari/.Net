@@ -1,0 +1,9 @@
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.csprojAssemblyReference.cache
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.Form1.resources
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.Properties.Resources.resources
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.csproj.GenerateResource.cache
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\bin\Debug\DosyaIndirici.exe.config
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\bin\Debug\DosyaIndirici.exe
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\bin\Debug\DosyaIndirici.pdb
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.exe
+C:\Users\omers\source\repos\DosyaIndirici\DosyaIndirici\obj\Debug\DosyaIndirici.pdb
