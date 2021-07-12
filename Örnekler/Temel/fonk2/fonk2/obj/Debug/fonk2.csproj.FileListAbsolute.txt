@@ -1,0 +1,7 @@
+C:\Users\Arazt\source\repos\fonk2\fonk2\obj\Debug\fonk2.csprojAssemblyReference.cache
+C:\Users\Arazt\source\repos\fonk2\fonk2\obj\Debug\fonk2.csproj.CoreCompileInputs.cache
+C:\Users\Arazt\source\repos\fonk2\fonk2\bin\Debug\fonk2.exe.config
+C:\Users\Arazt\source\repos\fonk2\fonk2\bin\Debug\fonk2.exe
+C:\Users\Arazt\source\repos\fonk2\fonk2\bin\Debug\fonk2.pdb
+C:\Users\Arazt\source\repos\fonk2\fonk2\obj\Debug\fonk2.exe
+C:\Users\Arazt\source\repos\fonk2\fonk2\obj\Debug\fonk2.pdb

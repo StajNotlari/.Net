@@ -1,0 +1,5 @@
+C:\Users\omers\source\repos\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\omers\source\repos\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\omers\source\repos\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\omers\source\repos\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\omers\source\repos\degiskenler\degiskenler\obj\Debug\degiskenler.pdb

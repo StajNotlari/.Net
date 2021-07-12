@@ -1,0 +1,6 @@
+C:\Users\omers\source\repos\switch\switch\bin\Debug\@switch.exe.config
+C:\Users\omers\source\repos\switch\switch\bin\Debug\@switch.exe
+C:\Users\omers\source\repos\switch\switch\bin\Debug\@switch.pdb
+C:\Users\omers\source\repos\switch\switch\obj\Debug\switch.csprojAssemblyReference.cache
+C:\Users\omers\source\repos\switch\switch\obj\Debug\@switch.exe
+C:\Users\omers\source\repos\switch\switch\obj\Debug\@switch.pdb

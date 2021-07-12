@@ -1,0 +1,6 @@
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\stringHesapMakinesi.exe.config
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\stringHesapMakinesi.exe
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\stringHesapMakinesi.pdb
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\obj\Debug\stringHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\obj\Debug\stringHesapMakinesi.exe
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\obj\Debug\stringHesapMakinesi.pdb

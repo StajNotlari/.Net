@@ -1,0 +1,6 @@
+C:\Users\omers\source\repos\matematik\matematik\bin\Debug\matematik.exe.config
+C:\Users\omers\source\repos\matematik\matematik\bin\Debug\matematik.exe
+C:\Users\omers\source\repos\matematik\matematik\bin\Debug\matematik.pdb
+C:\Users\omers\source\repos\matematik\matematik\obj\Debug\matematik.exe
+C:\Users\omers\source\repos\matematik\matematik\obj\Debug\matematik.pdb
+C:\Users\omers\source\repos\matematik\matematik\obj\Debug\matematik.csprojAssemblyReference.cache

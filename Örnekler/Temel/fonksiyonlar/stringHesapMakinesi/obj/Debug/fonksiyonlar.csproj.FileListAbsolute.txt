@@ -1,0 +1,5 @@
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\fonksiyonlar.exe.config
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\fonksiyonlar.exe
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\bin\Debug\fonksiyonlar.pdb
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\obj\Debug\fonksiyonlar.exe
+C:\Users\omers\source\repos\stringHesapMakinesi\stringHesapMakinesi\obj\Debug\fonksiyonlar.pdb
