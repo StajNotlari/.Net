@@ -1,0 +1,17 @@
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\omers\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\htmlParser\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CopyComplete
